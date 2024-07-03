@@ -1,0 +1,53 @@
+Wzorzec testowy: undisturbed letter "X"
+Stopień podobieństwa do wzorca oryginalnego 'letter X' wynosi: 0.9999999999999999
+Stopień podobieństwa do wzorca oryginalnego 'letter Y' wynosi: 0.8660254037844387
+Stopień podobieństwa do wzorca oryginalnego 'letter Z' wynosi: 0.6708203932499369
+Wzorzec został rozpoznany jako 'letter X'
+
+Wzorzec testowy: disturbed letter "X"
+Stopień podobieństwa do wzorca oryginalnego 'letter X' wynosi: 0.8749999999999999
+Stopień podobieństwa do wzorca oryginalnego 'letter Y' wynosi: 0.7216878364870323
+Stopień podobieństwa do wzorca oryginalnego 'letter Z' wynosi: 0.6708203932499369
+Wzorzec został rozpoznany jako 'letter X'
+
+Wzorzec testowy: negative of letter "X"
+Stopień podobieństwa do wzorca oryginalnego 'letter X' wynosi: 0.0
+Stopień podobieństwa do wzorca oryginalnego 'letter Y' wynosi: 0.0
+Stopień podobieństwa do wzorca oryginalnego 'letter Z' wynosi: 0.4472135954999579
+Wzorzec został rozpoznany jako 'letter Z'
+
+Wzorzec testowy: undisturbed letter "Y"
+Stopień podobieństwa do wzorca oryginalnego 'letter Z' wynosi: 0.6454972243679029
+Stopień podobieństwa do wzorca oryginalnego 'letter X' wynosi: 0.8660254037844387
+Stopień podobieństwa do wzorca oryginalnego 'letter Y' wynosi: 1.0000000000000002
+Wzorzec został rozpoznany jako 'letter Y'
+
+Wzorzec testowy: disturbed letter "Y"
+Stopień podobieństwa do wzorca oryginalnego 'letter Y' wynosi: 0.8333333333333336
+Stopień podobieństwa do wzorca oryginalnego 'letter X' wynosi: 0.7216878364870323
+Stopień podobieństwa do wzorca oryginalnego 'letter Z' wynosi: 0.6454972243679029
+Wzorzec został rozpoznany jako 'letter Y'
+
+Wzorzec testowy: negative of letter "Y"
+Stopień podobieństwa do wzorca oryginalnego 'letter Y' wynosi: 0.0
+Stopień podobieństwa do wzorca oryginalnego 'letter X' wynosi: 0.22360679774997896
+Stopień podobieństwa do wzorca oryginalnego 'letter Z' wynosi: 0.5
+Wzorzec został rozpoznany jako 'letter Z'
+
+Wzorzec testowy: undisturbed letter "Z"
+Stopień podobieństwa do wzorca oryginalnego 'letter Z' wynosi: 0.9999999999999999
+Stopień podobieństwa do wzorca oryginalnego 'letter X' wynosi: 0.6708203932499369
+Stopień podobieństwa do wzorca oryginalnego 'letter Y' wynosi: 0.6454972243679029
+Wzorzec został rozpoznany jako 'letter Z'
+
+Wzorzec testowy: disturbed letter "Z"
+Stopień podobieństwa do wzorca oryginalnego 'letter Z' wynosi: 0.8581163303210333
+Stopień podobieństwa do wzorca oryginalnego 'letter X' wynosi: 0.6396021490668312
+Stopień podobieństwa do wzorca oryginalnego 'letter Y' wynosi: 0.6154574548966638
+Wzorzec został rozpoznany jako 'letter Z'
+
+Wzorzec testowy: negative of letter "Z"
+Stopień podobieństwa do wzorca oryginalnego 'letter Z' wynosi: 0.0
+Stopień podobieństwa do wzorca oryginalnego 'letter X' wynosi: 0.2886751345948129
+Stopień podobieństwa do wzorca oryginalnego 'letter Y' wynosi: 0.1666666666666667
+Wzorzec został rozpoznany jako 'letter X'

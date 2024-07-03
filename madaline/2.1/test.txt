@@ -1,0 +1,57 @@
+9
+4
+4 
+
+undisturbed letter "X"
+#--# 
+-##- 
+-##- 
+#--# 
+
+disturbed letter "X" 
+##-# 
+-##- 
+-##- 
+---# 
+
+negative of letter "X"
+-##- 
+#--# 
+#--# 
+-##- 
+ 
+undisturbed letter "Y"
+#--# 
+-##- 
+-#-- 
+#--- 
+
+disturbed letter "Y" 
+#--# 
+--## 
+-#-- 
+#--- 
+
+negative of letter "Y"
+-##-
+#--#
+#-##
+-###
+ 
+undisturbed letter "Z" 
+#### 
+--#- 
+-#-- 
+#### 
+ 
+disturbed letter "Z"
+#### 
+-#-- 
+-#-# 
+#### 
+
+negative of letter "Z"
+----
+##-#
+#-##
+----
